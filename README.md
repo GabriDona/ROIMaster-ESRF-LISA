@@ -17,6 +17,8 @@ Features
 
 Usage
 -----
+Make sure that the Nexus file you are about to analyze has been created through the DataNexusConverter application.
+You can download the code at [a link](https://github.com/GabriDona/DataNexusConverter-ESRF-LISA/blob/main/LICENSE)
 1. **Open File**: Click on the 'Open File' button to load an NX5 file.
 2. **Select XIA Channels**: Choose XIA channels from the treeview for analysis (you can also choose more than one channel).
 3. **Adjust Energy**: Use the energy slider to select a specific energy value.
