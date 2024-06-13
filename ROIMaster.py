@@ -339,7 +339,7 @@ class MainWindow(Tk):
         
         # Set window title and icon
         self.title("ROI Master: Streamlining XAFS")
-        self.iconbitmap("IMG-LOGO.ico")
+        
         
         # Set window style and size
         self.style = ttk.Style(self)
