@@ -39,17 +39,6 @@ Dependencies
 - customtkinter
 - PIL (Python Imaging Library)
 
-Installation
-------------
-1. Install the required Python packages using pip:
- - pip install tk
- - pip install numpy
- - pip install --upgrade --user pyglet
- - pip install pillow
- - pip3 install customtkinter
- - pip install h5py
-
-
 Files
 -----
 - main.py: The main application script.
