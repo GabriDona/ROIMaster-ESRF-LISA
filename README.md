@@ -53,7 +53,6 @@ Installation
 Files
 -----
 - main.py: The main application script.
-- IMG-LOGO.ico: The icon file for the application.
 - title_roimaster.png: The title image displayed in the application.
 
 Contact
