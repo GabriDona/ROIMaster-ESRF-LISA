@@ -32,12 +32,12 @@ Dependencies
 ------------
 - Python 3.x
 - Tkinter
-- Matplotlib
-- h5py
-- numpy
-- pandas
-- customtkinter
-- PIL (Python Imaging Library)
+- Matplotlib (3.3.4 or above)
+- h5py (3.1.0 or above)
+- numpy (1.19.5 or above)
+- pandas (1.2.1 or above)
+- customtkinter (4.6.3 or above)
+- PIL (Python Imaging Library) (8.1.0 or above)
 
 Files
 -----
