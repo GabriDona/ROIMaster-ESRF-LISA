@@ -4,7 +4,7 @@ ROI Master: Streamlining XAFS
 
 Overview
 --------
-This project, "ROI Master," is a graphical user interface (GUI) application designed to facilitate the analysis of X-ray Absorption Fine Structure (XAFS) data. It allows users to open NX5 files (saved with DataNexusConverter), visualize fluorescence data, apply deadtime corrections, and save processed data in XDI format. The application is built using Python, Tkinter for the GUI, and Matplotlib for plotting.
+This project, "ROI Master," is a graphical user interface (GUI) application designed to facilitate the analysis of X-ray Absorption Fine Structure (XAFS) data. It allows users to open NX5 files (saved with [DataNexusConverter](https://github.com/GabriDona/DataNexusConverter-ESRF-LISA)), visualize fluorescence data, apply deadtime corrections, and save processed data in XDI format. The application is built using Python, Tkinter for the GUI, and Matplotlib for plotting.
 
 Features
 --------
